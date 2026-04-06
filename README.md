@@ -2,6 +2,18 @@
 
 Protótipos de design para o app **onChurch** — um aplicativo mobile para comunidades de igreja, construído com React Native e Expo.
 
+## Preview
+
+<p align="center">
+  <img src="assets/preview-gradient.png" alt="Opção A - Gradiente" width="300" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/preview-flat.png" alt="Opção C - Flat" width="300" />
+</p>
+
+<p align="center">
+  <em>Esquerda: Opção A (Gradiente) — Direita: Opção C (Flat)</em>
+</p>
+
 ## O que é
 
 O design-onCrunch contém variações visuais da tela principal (Mural) do app onChurch. Cada variante apresenta uma abordagem de design diferente para a mesma funcionalidade:
